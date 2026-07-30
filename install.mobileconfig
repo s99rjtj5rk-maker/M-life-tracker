@@ -28,7 +28,7 @@
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string>https://webview.e2b.bj3.sandbox.cloudstudio.club/?x-cs-sandbox-id=92b02a17c7a64294a1c36a9d71f140f8&x-cs-sandbox-port=8000</string>
+            <string>https://m-life-tracker-production.up.railway.app</string>
         </dict>
     </array>
     <key>PayloadDescription</key>
